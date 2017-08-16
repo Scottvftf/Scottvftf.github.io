@@ -1,0 +1,86 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.voicesfromthefuselage.com" resolutions="1x" timestamp="1502892400124">
+  <folder name="css">
+    <file name="site_global.css" crc="4024371672"/>
+    <file name="downloads.css" crc="518632663" ref="downloads"/>
+    <file name="index.css" crc="4164296040" ref="index"/>
+    <file name="nomq_index.css" crc="3958288440" ref="index"/>
+    <file name="music.css" crc="518632663" ref="music"/>
+    <file name="store.css" crc="518632663" ref="store"/>
+    <file name="videos.css" crc="4282584618" ref="videos"/>
+    <file name="tour.css" crc="518632663" ref="tour"/>
+    <file name="the-band.css" crc="518632663" ref="the-band"/>
+  </folder>
+  <folder name="assets">
+    <file name="rss_blog_2.0-(1).mulib" crc="372572949" seo="true" mt="1502789836000"/>
+    <file name="v.png" crc="4127498175" seo="true" mt="1498212336000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the-band:music:videos:tour:downloads:store"/>
+    <file name="museutils.js" crc="4216313831" ref="index:the-band:music:videos:tour:downloads:store"/>
+    <file name="whatinput.js" crc="86476730" ref="index:the-band:music:videos:tour:downloads:store"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:the-band:music:videos:tour:downloads:store"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:the-band:music:videos:tour:downloads:store"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index:the-band:music:videos:tour:downloads:store"/>
+  </folder>
+  <folder name="images">
+    <file name="text_logo.png" crc="493324597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="ii.png" crc="138537753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u8917.png" crc="4280185316" ref="index"/>
+    <file name="u8917-r.png" crc="390865424" ref="index"/>
+    <file name="u8949.png" crc="3988087502" ref="index"/>
+    <file name="u8949-r.png" crc="260037235" ref="index"/>
+    <file name="u8933.png" crc="3960026472" ref="index"/>
+    <file name="u8933-r.png" crc="4128870488" ref="index"/>
+    <file name="u8965.png" crc="154134813" ref="index"/>
+    <file name="u8965-r.png" crc="3889951907" ref="index"/>
+    <file name="u89172.png" crc="3809114544" ref="index"/>
+    <file name="u8917-r2.png" crc="4229607938" ref="index"/>
+    <file name="u89332.png" crc="368380561" ref="index"/>
+    <file name="u8933-r2.png" crc="89077974" ref="index"/>
+    <file name="u89492.png" crc="4085130145" ref="index"/>
+    <file name="u8949-r2.png" crc="3808045002" ref="index"/>
+    <file name="u89652.png" crc="79859300" ref="index"/>
+    <file name="u8965-r2.png" crc="66968248" ref="index"/>
+    <file name="u89173.png" crc="3809114544" ref="index"/>
+    <file name="u8917-r3.png" crc="4229607938" ref="index"/>
+    <file name="u89493.png" crc="4085130145" ref="index"/>
+    <file name="u8949-r3.png" crc="3808045002" ref="index"/>
+    <file name="u89333.png" crc="368380561" ref="index"/>
+    <file name="u8933-r3.png" crc="89077974" ref="index"/>
+    <file name="u89653.png" crc="79859300" ref="index"/>
+    <file name="u8965-r3.png" crc="66968248" ref="index"/>
+    <file name="u89174.png" crc="3978490381" ref="index"/>
+    <file name="u8917-r4.png" crc="338610812" ref="index"/>
+    <file name="u89494.png" crc="308329173" ref="index"/>
+    <file name="u8949-r4.png" crc="4050814849" ref="index"/>
+    <file name="u89334.png" crc="146787400" ref="index"/>
+    <file name="u8933-r4.png" crc="4291894536" ref="index"/>
+    <file name="u89654.png" crc="3873384043" ref="index"/>
+    <file name="u8965-r4.png" crc="409697785" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4204271392" seo="true" mt="1502891130159" redirect="true"/>
+  <file name="the-band.html" crc="3852137917" seo="true" mt="1502876256120" redirect="false"/>
+  <file name="music.html" crc="128919204" seo="true" mt="1502876269200" redirect="false"/>
+  <file name="videos.html" crc="36230638" seo="true" mt="1502876805937" redirect="true"/>
+  <file name="tour.html" crc="4168588092" seo="true" mt="1502876283745" redirect="false"/>
+  <file name="downloads.html" crc="514066255" seo="true" mt="1502876293400" redirect="false"/>
+  <file name="store.html" crc="45965515" seo="true" mt="1502876296839" redirect="false"/>
+</manifest>
