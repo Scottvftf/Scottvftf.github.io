@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.voicesfromthefuselage.com" resolutions="1x" timestamp="1502892400124">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.voicesfromthefuselage.com" resolutions="1x" timestamp="1502895108122">
   <folder name="css">
     <file name="site_global.css" crc="4024371672"/>
     <file name="downloads.css" crc="518632663" ref="downloads"/>
@@ -76,7 +76,7 @@
     <file name="u89654.png" crc="3873384043" ref="index"/>
     <file name="u8965-r4.png" crc="409697785" ref="index"/>
   </folder>
-  <file name="index.html" crc="4204271392" seo="true" mt="1502891130159" redirect="true"/>
+  <file name="index.html" crc="3788590824" seo="true" mt="1502895045160" redirect="true"/>
   <file name="the-band.html" crc="3852137917" seo="true" mt="1502876256120" redirect="false"/>
   <file name="music.html" crc="128919204" seo="true" mt="1502876269200" redirect="false"/>
   <file name="videos.html" crc="36230638" seo="true" mt="1502876805937" redirect="true"/>
